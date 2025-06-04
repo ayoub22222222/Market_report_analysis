@@ -1,5 +1,7 @@
 # Market Report Analysis using Power BI
 
+![Data Model](assets/Market-research_pic.png)
+
 Maven Market is a business intelligence project for a multinational grocery chain operating in Canada, Mexico, and the U.S. The project covers the full BI workflow: data preparation, relational modeling, calculated fields, and interactive report design.
 
 - **ETL techniques** (Extract, Transform, Load)
